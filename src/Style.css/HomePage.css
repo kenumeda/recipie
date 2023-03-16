@@ -1,0 +1,22 @@
+.input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f9d584;
+  height: 62px;
+  padding: 10px 16px;
+  width: 478px;
+  border-radius: 8px 8px 0px 0px;
+}
+
+.keyword {
+  padding: 10px;
+  width: 64px;
+}
+
+.tabs {
+  display: flex;
+  flex-direction: row;
+  width: 839px;
+  background-color: #f9d584;
+}
